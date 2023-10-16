@@ -1,1 +1,3 @@
-# nnct_network_setting
+# NNCT Networking Setting
+
+## Windows
