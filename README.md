@@ -44,17 +44,17 @@ Win keyを押して`control panel`と入力
 
 `アダプターの詳細設定`を選択
 
-![](img/Screenshot%202023-10-19%20012627.png)
+![SelectAdapter](img/Screenshot%202023-10-19%20012627.png)
 
 `Ethernet`を右クリックしてプロパティをクリック
 
-![](img/Screenshot%202023-10-19%20012644.png)
+![EthernetPropaty](img/Screenshot%202023-10-19%20012644.png)
 
 まず、IEEE802.1X認証にチェックを入れます
 
 次にその下にある設定をクリックします
 
-![](img/Screenshot%202023-10-19%20012719.png)
+![Ethernet8021x](img/Screenshot%202023-10-19%20012719.png)
 
 ***一番上のチェックを外してください***
 
@@ -64,7 +64,7 @@ Win keyを押して`control panel`と入力
 
 `OK`をクリックします
 
-![](img/Screenshot%202023-10-19%20012742.png)
+![EthernetSetting](img/Screenshot%202023-10-19%20012742.png)
 
 次に`追加設定`をクリックします
 
@@ -73,15 +73,17 @@ Win keyを押して`control panel`と入力
 そしてその右にあるボタンをクリックしてIDと
 パスワードを設定します
 
-![](img/Screenshot%202023-10-19%20012759.png)
+![EthernetUserSetting](img/Screenshot%202023-10-19%20012759.png)
+
+## 3.IDとパスワードの入力
 
 ここに**演習室で使用するMicrosoftのIDとパスワード**を入力してください
 
 ※パスワードは初期に使ったパスワードです
 
-![](img/Screenshot%202023-10-19%20012844.png)
+![IDandPasswordSetting](img/Screenshot%202023-10-19%20012844.png)
 
-最後にOKをすべてクリックして、接続したか確認してください
+最後にOKをすべてクリックして、接続できたか確認してください
 
 ## 終わりに
 
