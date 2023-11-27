@@ -20,14 +20,14 @@
 
 # 各ディストリビューションごとの設定
 
-### [Arch Linux](/Linux/arch.md)
+- ### [Arch Linux](/Linux/arch.md)
 
-### [Ubuntu](/Linux/GNU/ubuntu.md)
+- ### [Ubuntu](/Linux/GNU/ubuntu.md)
 
-### [Debian](/Linux/GNU/debian.md)
+- ### [Debian](/Linux/GNU/debian.md)
 
-### [Cent](/Linux/GNU/cent.md)
+- ### [Cent](/Linux/GNU/cent.md)
 
-### [Fedra](/Linux/GNU/fedra.md)
+- ### [Fedra](/Linux/GNU/fedra.md)
 
-### [RedHat](/Linux/GNU/redhat.md)
+- ### [RedHat](/Linux/GNU/redhat.md)
