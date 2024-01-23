@@ -1,14 +1,14 @@
-## 目次
+## Contents
 
-1. [Internet Connection Procedures](#接続の手順)
+1. [Internet Connection Procedures](#internet-connection-procedures)
 
-    1. [Running for Wired AutoConfig](#1-wired-autoconfigを起動する)
+    1. [Running for Wired AutoConfig](#1-activate-wired-autoconfig)
 
-    2. [Configure 802.1x authentication settings](#2-8021x認証設定)
+    2. [Configure 802.1x authentication settings](#2-configure-8021x-authentication-settings)
 
-    3. [Enter your ID and Password in the form](#3idとパスワードの入力)
+    3. [Enter your ID and Password in the form](#3enter-your-id-and-password)
 
-2. [Troubleshoot](#トラブルシュート)
+2. [Troubleshoot](#troubleshoot)
 
 ## Internet Connection Procedures
 

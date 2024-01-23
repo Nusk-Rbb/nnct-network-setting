@@ -48,7 +48,7 @@ Win keyを押して`control panel`と入力
 
 `Ethernet`を右クリックしてプロパティをクリック
 
-![EthernetPropaty](img/openNetConnections.png)
+![EthernetProperty](img/openNetConnections.png)
 
 まず、IEEE802.1X認証にチェックを入れます
 
