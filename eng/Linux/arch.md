@@ -45,7 +45,7 @@ Please configure as follows
 | Username | Student ID |
 | Password | Microsoft Initial password |
 
-![](/Linux/GNU/img/NetworkManager.png)
+![](./GNU/img/Networkmanager.conf.png)
 
 ## Connection Confirmation
 

@@ -45,7 +45,7 @@ nmtui
 | Username | 学籍番号 |
 | Password | マイクロソフトの初期パスワード |
 
-![](/Linux/GNU/img/NetworkManager.png)
+![](./GNU/img/Networkmanager.conf.png)
 
 ## 接続確認
 

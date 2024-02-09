@@ -6,9 +6,9 @@
 
 # ネットワーク設定
 
-## 802.1x認証の設定
+### 802.1x認証の設定
 
-NetworkManagerを起動して以下のように設定を行ってください
+以下のように設定を行ってください
 
 | 設定項目 | |
 | ---- | ---- |
@@ -19,9 +19,9 @@ NetworkManagerを起動して以下のように設定を行ってください
 | Username | 学籍番号 |
 | Password | マイクロソフトの初期パスワード |
 
-![](/Linux/GNU/img/NetworkManager.png)
+![](../GNU/img/Networkmanager.conf.png)
 
-## 接続確認
+### 接続確認
 
 ```bash
 ping -c8 google.com
