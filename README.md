@@ -2,11 +2,11 @@
 
 ## 目次
 
-1. [Windows](#windows)
+1. [Windows](/ja/Windows/NetworkSetting.md)
 
-2. [Linux](#linux)
+2. [Linux](/ja/Linux/README.md)
 
-3. [Network Setting English ver.](#english)
+3. [Network Setting English ver.](/eng/README.md)
 
 ## [Windows](/ja/Windows/NetworkSetting.md)
 

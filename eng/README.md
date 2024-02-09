@@ -2,9 +2,9 @@
 
 ## Contents
 
-1. [Windows](#windows)
+1. [Windows](./Windows/NetworkSetting.md)
 
-2. [Linux](#linux)
+2. [Linux](./Linux/README.md)
 
 ## Windows
 
