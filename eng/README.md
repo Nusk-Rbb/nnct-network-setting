@@ -1,4 +1,4 @@
-# NNCT Network Setting (Unofficial)
+# NITNIC Network Setting (Unofficial)
 
 ## Contents
 

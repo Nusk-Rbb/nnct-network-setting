@@ -1,4 +1,4 @@
-# NNCT Networking Setting
+# NITNIC Networking Setting(非公式)
 
 ## 目次
 
@@ -8,19 +8,12 @@
 
 3. [Network Setting English ver.](#english)
 
-## Windows
+## [Windows](/ja/Windows/NetworkSetting.md)
 
 Windowsの設定方法が書いてあります。ここを読んでネットワークの設定を行ってください。
 
-### [Windowsでの設定方法](ja/Windows/NetworkSetting.md)
-
-## Linux
+## [Linux](/ja/Linux/README.md)
 
 NetworkManagerによる設定方法が書いてあります。それ以外のツールで設定を行う場合はこれを参考に行ってください
 
-### [Linuxでの設定方法](ja/Linux/README.md)
-
-
-## English
-
-### [English is here](eng/)
+## [English is here](eng/README.md)
